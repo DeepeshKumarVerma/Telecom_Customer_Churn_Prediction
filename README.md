@@ -1,0 +1,1 @@
+Predicting telecom customer churn using machine learning models, including Gradient Boosting, XGBoost, Random Forest, and LightGBM. The project analyzes customer behavior and service usage to model churn probability and support retention strategies.
